@@ -1,0 +1,31 @@
+{
+  "name": "JestPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowdacom/JestPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowdacom/JestPractice/issues"
+  },
+  "homepage": "https://github.com/wowdacom/JestPractice#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-jest": "^22.4.3",
+    "uuidv4": "^1.0.0",
+    "vue": "^2.5.16",
+    "vuex": "^3.0.1"
+  }
+}
